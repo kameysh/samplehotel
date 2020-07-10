@@ -124,7 +124,7 @@ p{
 
 #showcase{
     /* background: url("") no-repeat center center/cover; */
-    background: url("/IMG/showcase.jpg") no-repeat center center/cover;
+    background: url("./IMG/showcase.jpg") no-repeat center center/cover;
     height: 600px;
 }
 
@@ -152,7 +152,7 @@ p{
 #home-info .info-img{
     float: left;
     width: 50%;
-    background: url("/IMG/photo-1.jpg") no-repeat;
+    background: url("./IMG/photo-1.jpg") no-repeat;
     min-height: 100%;
 }
 
